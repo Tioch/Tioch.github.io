@@ -24,7 +24,7 @@ permalink: /curated/
 - [The Command Line Crash Course - Quick course in using the command line](http://cli.learncodethehardway.org/book/)
 - [Mastering the command line, in one page](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 
-### R
+### Ri
 
 - [Try R](http://tryr.codeschool.com/)
 - [The R Book by Michael J. Crawley](https://archive.org/details/TheRBook/)
